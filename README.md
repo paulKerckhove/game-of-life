@@ -1,12 +1,8 @@
-## Typescript Game of life
+## Typescript/React version Game of life
 
 To install the dependencies run:
 
-### `yarn`
-
-Then 
-
-### `yarn start`
+`yarn` then `yarn start`
 
 It will open [http://localhost:3000](http://localhost:3000) in the browser.
 
