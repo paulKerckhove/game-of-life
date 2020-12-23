@@ -20,3 +20,31 @@
 .App-link {
   color: #09d3ac;
 }
+
+.game-title {
+  text-align: center;
+}
+
+.game-rules {
+  padding: 10px;
+  display: flexbox;
+}
+
+.game-controls {
+  margin: auto;
+  width: 50%;
+  display: inline-flex;
+  padding: 10px;
+}
+
+.grid {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.control-card {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
